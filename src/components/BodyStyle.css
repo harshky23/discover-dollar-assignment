@@ -1,0 +1,9 @@
+.outer{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 150px;
+}
+.container{
+    text-align: center;
+}
